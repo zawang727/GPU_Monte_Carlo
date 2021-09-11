@@ -1,0 +1,2 @@
+pscp C:\Users\RogerWang\Desktop\GPUMC_20190115.cu  zawang727@140.114.122.164:/home/zawang727/GPUMC_20190115.cu
+pscp C:\Users\RogerWang\Desktop\GPU Projects\MC_HW_3\Makefile  zawang727@140.114.122.164:/home/zawang727/Makefile 
